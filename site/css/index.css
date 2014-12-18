@@ -1,0 +1,16 @@
+body{
+    background-color: lightgray;
+}
+#logo{
+    margin-left: auto;
+    margin-right: auto;
+}
+#meny{
+    background-color: red;
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+    height: 255px;
+    float: left;
+
+}

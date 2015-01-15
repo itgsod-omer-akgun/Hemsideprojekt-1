@@ -1,0 +1,45 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: lightgray;
+    float: left;
+}
+#meny{
+
+    margin-right: auto;
+    margin-left: auto;
+    width: 800px;
+    height: 100px;
+}
+#hr1{
+    margin-left: auto;
+margin-right: auto
+}
+
+#logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 255px;
+}
+
+#start{
+    float: left;
+    margin-left: 100px;
+    margin-right: auto;
+}
+#tider{
+    float: left;
+    margin-left: 100px;
+    margin-right: auto;
+}
+#mat{
+    float: left;
+    margin-left: 100px;
+    margin-right: auto;
+}
+#om-oss{
+    float: left;
+    margin-left: 100px;
+    margin-right: auto;
+}

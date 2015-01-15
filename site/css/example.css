@@ -1635,7 +1635,7 @@ input[type="submit"].btn.btn-mini {
   Code example styles
 */
 body {
-  background: #fcfcfc;
+  background: #000000;
   -webkit-font-smoothing: antialiased;
   font: normal 15px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #232525;
@@ -1713,7 +1713,7 @@ small {
 }
 
 a:link, a:visited {
-    color: #000000;
+    color: snow;
     text-decoration: none;
     font-weight: 600;
 }
@@ -1725,7 +1725,7 @@ a:hover, a:active {
 }
 
 a.btn {
-  color:#fff;
+  color:#000000;
   margin-bottom: 10px;
 }
 

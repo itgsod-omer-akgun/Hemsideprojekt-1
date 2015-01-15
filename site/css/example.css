@@ -1719,7 +1719,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-    color: #000000;
+    color: red;
     text-decoration: none;
     font-weight: 600;
 }

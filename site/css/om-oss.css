@@ -1,0 +1,60 @@
+html{
+    background-color: #000000;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-color:black;
+}
+#a{background-color: snow;
+    width: 1200px;
+    height: 10000px;
+    margin:auto;
+}
+#meny{
+
+    margin: auto;
+    width: 800px;
+    height: 100px;
+}
+#hr1{
+    margin-left: auto;
+    margin-right: auto
+}
+
+#logo{
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    height: 255px;
+}
+
+#start{
+    float: left;
+    margin-left: 100px;
+    margin-right: auto;
+    font-style: italic;
+
+}
+a:link {color: snow;}
+a:visited {color: snow;}
+
+
+#tider{
+    float: left;
+    margin-left: 100px;
+    margin-right: auto;
+    font-style: italic;
+}
+#mat{
+    float: left;
+    margin-left: 100px;
+    margin-right: auto;
+    font-style: italic;
+}
+#om-oss{
+    float: left;
+    margin-left: 100px;
+    margin-right: auto;
+    font-style: italic;
+}

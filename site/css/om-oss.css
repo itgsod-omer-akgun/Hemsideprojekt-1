@@ -91,3 +91,8 @@ a:visited {color: snow;}
     margin-left: 100px;
     font-style: italic;
 }
+#karta{
+    float: right;
+    margin-left: 50%;
+    margin-top: -45%;
+}

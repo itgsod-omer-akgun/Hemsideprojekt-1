@@ -58,3 +58,36 @@ a:visited {color: snow;}
     margin-right: auto;
     font-style: italic;
 }
+#hrtranan {
+    float: left;
+    margin-left: 100px;
+    margin-right: auto;
+    font-style: italic;
+}
+#address{
+    margin-top: 100px;
+    margin-left: 100px;
+    font-style: italic;
+
+}
+#address2{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-style: italic;
+
+}
+#tel{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-style: italic;
+}
+#foljaoss{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-style: italic;
+}
+#socialmedia{
+    margin-top: 50px;
+    margin-left: 100px;
+    font-style: italic;
+}

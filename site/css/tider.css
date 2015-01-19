@@ -61,5 +61,11 @@ a:visited {color: snow;}
 
 #information{
     margin-top: 50px;
-    margin-left: 25px;
+    margin-left: 60px;
+    float: left;
+}
+#glas-pa-ett-bord{
+    float: right;
+    margin-left: 45%;
+    margin-top: -20%;
 }

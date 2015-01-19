@@ -58,3 +58,8 @@ a:visited {color: snow;}
     margin-right: auto;
     font-style: italic;
 }
+
+#information{
+    margin-top: 50px;
+    margin-left: 25px;
+}

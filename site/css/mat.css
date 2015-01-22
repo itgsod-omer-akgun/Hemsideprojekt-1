@@ -1,11 +1,11 @@
 body{
     width: 100%;
-    height: 100%;
+    height: auto;
     background-color:black;
 }
 #a{background-color: snow;
     width: 1200px;
-    height: max ;
+    height: auto ;
     margin:auto;
 }
 #meny{

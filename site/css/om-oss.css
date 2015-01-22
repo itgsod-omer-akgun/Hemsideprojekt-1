@@ -8,7 +8,7 @@ body{
 }
 #a{background-color: snow;
     width: 1200px;
-    height: max;
+    height: auto;
     margin:auto;
 }
 #meny{
